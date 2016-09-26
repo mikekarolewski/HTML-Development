@@ -15,16 +15,18 @@ a:active  {color:yellow; background-color:transparent; text-decoration:underline
 <body>
   
 
+<div align = right><img src = "suffolk_logo.jpg" style = "float:right;width:100px;height:75px;"></div>
 <h3><div align = center>Michael Karolewski</h3>
-<div align = center><p>Disaster management when it comes to earthquakes is key when you want to save lives.</br>
-Natural Disasters cause such a great loss to life, whether it be during the actual disaster or damage to resources following the disaster.</br>
-In the following web page, you will be shown examples and statistics about casualty rates in regions where an earthquake had hit.</br>
-Along with this, you will also be shown Artifical Intelligence Planning Techniques with outside references for your convenience.</br>
+<div align = center><p>Disaster management when it comes to earthquakes is key when you want to save lives.<br>
+<p>Natural Disasters cause such a great loss to life, whether it be during the actual disaster or damage to resources following the disaster.<br>
+In the following web page, you will be shown examples and statistics about casualty rates in regions where an earthquake had hit.<br>
+Along with this, you will also be shown Artifical Intelligence Planning Techniques with outside references for your convenience.<br>
 </p>
 
-<h3>Paragraph number 2</h3>
-<p>This is another paragraph. This paragraph will have a lot of extra text that it does not need,<br>for it is only an example
-and does not need to actually be about anything at all really, just to make space.</p>
+<div align = left><a href = "sectionOne.html">Section One: Casuality Examples</a>
+<div align = left><a href = "sectionTwo.html">Section Two: Casuality Statistics</a>
+<div align = left><a href = "sectionThree.html">Section Three: Artifical Intelligence Planning Techniques</a>
+<div align = left><a href = "sectionFour.html">Section Four: Required Resources for Rescue Operation</a>
 
 <h3>This is the third paragraph.</h3>
 <p>This is the last paragraph, this paragraph<br>will have<br>line breaks.</p>
@@ -33,10 +35,7 @@ and does not need to actually be about anything at all really, just to make spac
 <div align = center><a href="first.html">My other page</a></a>
 <h3><div align = center>Opening a friends web page.</h3>
 
-<div align = center><a href="second.html">A second page</a></a>
 
-<div align = center><a href="https://ShawnWill.github.io/example2">Shawn's page</a></a>
-<div align = left><h4>A picture on a web page.</h4>
 
 <div align = left><img src="html.jpg" alt = "It's a picture" style = "width:100px;height:75px;">
 </body>
