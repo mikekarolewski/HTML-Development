@@ -1,0 +1,53 @@
+body>p {
+	color: black;
+	background-color: yellow;
+	font-weight: bold;
+	text-align: center;
+}
+
+body>p>h1 {
+	font-weight: bold;
+	text-align: left;
+	background-color: yellow;
+}
+
+body>p>h1>div {
+	text-align: left;
+	background-color: yellow;
+}
+
+body>p>h1>p {
+	text-align: center;
+	background-color: light brown;
+}
+
+body>image {
+	image-align: center;
+	background-color: yellow;
+}
+
+body>image>h1 {
+	text-align: left;
+	background-color: yellow;
+}
+
+body>image>h2 {
+	background-color: orange;
+	text-align: center;
+}
+
+body>image>h1>h3 {
+	background-color: yellow;
+	text-align: right;
+}
+
+body>p>h4 {
+	font-weight: bold;
+	text-align: left;
+	background-color: yellow;
+}
+
+body>p>h4>p {
+	text-align: left;
+	background-color: yellow;
+}
