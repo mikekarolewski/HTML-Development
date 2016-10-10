@@ -21,22 +21,22 @@ body>p>h1>p {
 	background-color: light brown;
 }
 
-body>image {
+body>img {
 	image-align: center;
 	background-color: yellow;
 }
 
-body>image>h1 {
+body>img>h1 {
 	text-align: left;
 	background-color: yellow;
 }
 
-body>image>h2 {
+body>img>h2 {
 	background-color: orange;
 	text-align: center;
 }
 
-body>image>h1>h3 {
+body>img>h1>h3 {
 	background-color: yellow;
 	text-align: right;
 }
